@@ -32,7 +32,7 @@ If you're looking for in-depth tutorial-like examples, checkout the [tutorials](
 
 | Example &nbsp; | Notebook & Scripts &nbsp; | Read The Blog!&nbsp; &nbsp; &nbsp; &nbsp;|
 |-------- | ------------- | -------------   |
-| [PEFT Supervised Fine-tuning of Gemma using Huggingface Trainer](/examples/sft-gemma-hindi/) | <a href="https://colab.research.google.com/github/lancedb/vectordb-recipes/blob/main/examples/Youtube-Search-QA-Bot/main.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> |
+| [PEFT Supervised Fine-tuning of Gemma using Huggingface Trainer](/examples/sft-gemma-hindi/) | <a href="https://colab.research.google.com/github/lancedb/lance-deeplearning-recipes/blob/main/examples/sft-gemma-hindi/sft_gemma_hindi.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> |
 
 
 ## Contributing Examples
