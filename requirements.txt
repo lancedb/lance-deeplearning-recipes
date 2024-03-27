@@ -1,0 +1,9 @@
+pyarrow
+pylance
+datasets
+torch
+accelerate
+transformers
+bitsandbytes
+peft
+wandb
