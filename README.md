@@ -5,7 +5,7 @@ This repository contains examples to help you use Lance datasets for your Deep l
 
 - These are built using Lance, a free, open-source, columnar data format that **requires no setup**.
 
-- High-performance random access: **100x faster** than Parquet.
+- High-performance random access: More than **1000x faster** than Parquet.
 
 - Zero-copy, automatic versioning: manage versions of your data automatically, and reduce redundancy with zero-copy logic built-in.
 
