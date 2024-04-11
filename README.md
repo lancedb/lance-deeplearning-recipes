@@ -8,9 +8,8 @@ This repository contains examples to help you use Lance datasets for your Deep l
 - High-performance random access: More than **1000x faster** than Parquet.
 
 - Zero-copy, automatic versioning: manage versions of your data automatically, and reduce redundancy with zero-copy logic built-in.
+![318060905-d284accb-24b9-4404-8605-56483160e579](https://github.com/lancedb/lance-deeplearning-recipes/assets/15766192/8b350bf9-726e-45b8-ba23-dc8f2043c8aa)
 
-
-<img src="https://github.com/lancedb/vectordb-recipes/assets/15766192/a4959e02-1eda-415b-ab1b-de3c6a2a7d63" height="85%" width="85%" />
 <br />
 Join our community for support - <a href="https://discord.gg/zMM32dvNtd">Discord</a> •
 <a href="https://twitter.com/lancedb">Twitter</a>
