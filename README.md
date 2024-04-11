@@ -19,7 +19,7 @@ Join our community for support - <a href="https://discord.gg/zMM32dvNtd">Discord
 
 This repository is divided into 2 sections:
 - [Examples](#examples) - Get right into the code with minimal introduction, aimed at getting you from an idea to PoC within minutes!
-- [Tutorials](#tutorials) - A curated list of tutorials, blogs, Colabs and courses to give you a headstart in using Lance datasets for your Deep learning projects. 
+<!-- - [Tutorials](#tutorials) - A curated list of tutorials, blogs, Colabs and courses to give you a headstart in using Lance datasets for your Deep learning projects.  -->
 
 ## Examples
 Practical examples showcasing how to adapt your Lance dataset to popular deep learning projects. 
@@ -33,6 +33,7 @@ If you're looking for in-depth tutorial-like examples, checkout the [tutorials](
 | Example &nbsp; | Notebook & Scripts &nbsp; | Read The Blog!&nbsp; &nbsp; &nbsp; &nbsp;|
 |-------- | ------------- | -------------   |
 | [PEFT Supervised Fine-tuning of Gemma using Huggingface Trainer](/examples/sft-gemma-hindi/) | <a href="https://colab.research.google.com/github/lancedb/lance-deeplearning-recipes/blob/main/examples/sft-gemma-hindi/sft_gemma_hindi.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> |
+| [Creating text dataset for LLM pre-training](/examples/wikitext-llm-dataset/) | <a href="https://colab.research.google.com/github/lancedb/lance-deeplearning-recipes/blob/main/examples/wikitext-llm-dataset/wikitext-llm-dataset.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> | [![Ghost](https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E)](https://blog.lancedb.com/custom-dataset-for-llm-training-using-lance/)|
 
 
 ## Contributing Examples
