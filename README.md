@@ -33,6 +33,7 @@ If you're looking for in-depth tutorial-like examples, checkout the [tutorials](
 |-------- | ------------- | -------------   |
 | [PEFT Supervised Fine-tuning of Gemma using Huggingface Trainer](/examples/sft-gemma-hindi/) | <a href="https://colab.research.google.com/github/lancedb/lance-deeplearning-recipes/blob/main/examples/sft-gemma-hindi/sft_gemma_hindi.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> |
 | [Creating text dataset for LLM pre-training](/examples/wikitext-llm-dataset/) | <a href="https://colab.research.google.com/github/lancedb/lance-deeplearning-recipes/blob/main/examples/wikitext-llm-dataset/wikitext-llm-dataset.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> | [![Ghost](https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E)](https://blog.lancedb.com/custom-dataset-for-llm-training-using-lance/)|
+| [Creating Instruction dataset for LLM fine-tuning](/examples/alpaca-dataset/) | <a href="https://colab.research.google.com/github/lancedb/lance-deeplearning-recipes/blob/main/examples/alpaca-dataset/alpaca-dataset.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> |
 | [LLM pre-training](/examples/llm-pretraining/) | <a href="https://colab.research.google.com/github/lancedb/lance-deeplearning-recipes/blob/main/examples/llm-pretraining/llm-pretraining.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> |
 
 
