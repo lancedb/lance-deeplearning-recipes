@@ -20,7 +20,7 @@ Join our community for support - <a href="https://discord.gg/zMM32dvNtd">Discord
 Lance columnar file format is designed for large scale DL workloads. Columnar format allows you to easily and efficiently manage complex and unstructred multi-modal datasets Updation, filtering and zero-copy versioning allow you to iterate faster on large datasets. It’s designed to be used with images, videos, 3D point clouds, audio and of course tabular data. It supports any POSIX file systems, and cloud storage like AWS S3 and Google Cloud Storage
 
 <br /><b> Performance </b> <br />
-Lance format supports fast read/writes making your training time data loading significantly faster, allowing you to iterate quicker.
+Lance format supports fast read/writes making your training time data loading significantly faster.
 
 ## Examples
 Practical examples showcasing how to adapt your Lance dataset to popular deep learning projects. 
