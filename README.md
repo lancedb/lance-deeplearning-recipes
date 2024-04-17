@@ -15,19 +15,15 @@ Join our community for support - <a href="https://discord.gg/zMM32dvNtd">Discord
 <a href="https://twitter.com/lancedb">Twitter</a>
 
 ---
+<h3> Why Lance </h3>
+<b>Convinience</b> <br />
+Lance columnar file format is designed for large scale DL workloads. Columnar format allows you to easily and efficiently manage complex and unstructred multi-modal datasets Updation, filtering and zero-copy versioning allow you to iterate faster on large datasets. It’s designed to be used with images, videos, 3D point clouds, audio and of course tabular data. It supports any POSIX file systems, and cloud storage like AWS S3 and Google Cloud Storage
 
-This repository is divided into 2 sections:
-- [Examples](#examples) - Get right into the code with minimal introduction, aimed at getting you from an idea to PoC within minutes!
-<!-- - [Tutorials](#tutorials) - A curated list of tutorials, blogs, Colabs and courses to give you a headstart in using Lance datasets for your Deep learning projects.  -->
+<br /><b> Performance </b> <br />
+Lance format supports fast read/writes making your training time data loading significantly faster.
 
 ## Examples
 Practical examples showcasing how to adapt your Lance dataset to popular deep learning projects. 
-
-Examples are available as:
-* **Colab notebooks** - that builds the application is stages allowing you to investigate results at every intermediate stage.
-* **Python scripts** - for cases where you'd like directly to use the file or snippets to integrate in your application
-
-If you're looking for in-depth tutorial-like examples, checkout the [tutorials](#tutorials) section!
 
 | Example &nbsp; | Notebook & Scripts &nbsp; | Read The Blog!&nbsp; &nbsp; &nbsp; &nbsp;|
 |-------- | ------------- | -------------   |
