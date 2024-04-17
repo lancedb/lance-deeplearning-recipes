@@ -11,6 +11,24 @@ python convert-any-image-dataset-to-lance.py --dataset /path/to/your/image_datas
 
 This command will seamlessly generate separate Lance files for your training, testing, and validation data. You have the flexibility to change the schema and specify which subsets (training, testing, validation) should be included in the Lance files. Even if you have only one subset (e.g., only training data), you can conveniently indicate which subset(s) you wish to incorporate by changing the variables. 
 
+Ensure that you follow  a structured hierarchy within your image dataset folder, with the option to utilize either PNG, JPEG, or JPG formats images. 
+
+```python
+image_dataset_folder
+│
+├── training
+│   ├── image_training_01.png      # Image for training
+│   └── image_training_02.png      
+│
+├── testing
+│   ├── image_testing_01.png       # Image for testing
+│   └── image_testing_02.png       
+│
+└── validation
+    ├── image_validation_01.png    # Image for validation
+    └── image_validation_02.png    
+```
+
 For starters and effortless access to pre-formatted CINIC-10 and mini-ImageNet datasets in Lance format, you can refer to the following Lance Image Dataset links:
 
 CINIC-10 Dataset: https://www.kaggle.com/datasets/vipulmaheshwarii/cinic-10-lance-dataset
