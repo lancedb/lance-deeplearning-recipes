@@ -16,15 +16,15 @@ Ensure that you follow a structured hierarchy within your image dataset folder, 
 ```python
 image_dataset_folder
 │
-├── training
+├── train
 │   ├── image_training_01.png      # Image for training
 │   └── image_training_02.png      
 │
-├── testing
+├── test
 │   ├── image_testing_01.png       # Image for testing
 │   └── image_testing_02.png       
 │
-└── validation
+└── val
     ├── image_validation_01.png    # Image for validation
     └── image_validation_02.png    
 ```

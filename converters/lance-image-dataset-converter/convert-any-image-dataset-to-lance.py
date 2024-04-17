@@ -95,7 +95,7 @@ if __name__ == "__main__":
         write_to_lance(dataset_path, dataset_name, schema)
         data_frames = loading_into_pandas(dataset_path, dataset_name)
         end = time.time()
-        print(f"Time(sec): {end - start}")
+        print(f"Time(sec): {end - start:.2f}")
 
     except ValueError as e:
         print(e)
