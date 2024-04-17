@@ -6,12 +6,12 @@ The `convert-any-image-dataset-to-lance.py` script can be used for transforming 
 To effortlessly convert your image dataset into Lance format, simply execute the following command in your terminal:
 
 ```python
-python convert-any-image-dataset-to-lance.py --dataset /path/to/your/image_dataset_folder
+python3 convert-any-image-dataset-to-lance.py --batch_size 10 --dataset image_dataset_folder
 ```
 
 This command will seamlessly generate separate Lance files for your training, testing, and validation data. You have the flexibility to change the schema and specify which subsets (training, testing, validation) should be included in the Lance files. Even if you have only one subset (e.g., only training data), you can conveniently indicate which subset(s) you wish to incorporate by changing the variables. 
 
-Ensure that you follow  a structured hierarchy within your image dataset folder, with the option to utilize either PNG, JPEG, or JPG formats images. 
+Ensure that you follow a structured hierarchy within your image dataset folder, with the option to utilize either PNG, JPEG, or JPG formats images. 
 
 ```python
 image_dataset_folder
