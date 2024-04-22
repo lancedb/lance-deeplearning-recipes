@@ -1,7 +1,7 @@
 ## CNN Model with CINIC-10 Lance image dataset
 
 ### Overview
-Today we are going to demonstrate how to train a Convolutional Neural Network (CNN) model using the CINIC-10 image dataset in the Lance format. The [CINIC-10](https://paperswithcode.com/dataset/cinic-10) dataset consists of 10 classes of images, including airplanes, automobiles, birds, cats, deer, dogs, frogs, horses, ships, and trucks.
+This example demonstrates how to train a Convolutional Neural Network (CNN) model using the CINIC-10 image dataset in the Lance format. The [CINIC-10](https://paperswithcode.com/dataset/cinic-10) dataset consists of 10 classes of images, including airplanes, automobiles, birds, cats, deer, dogs, frogs, horses, ships, and trucks.
 
 ### Dataset
 The script assumes that you have the CINIC-10 dataset in the [Lance](https://www.kaggle.com/datasets/vipulmaheshwarii/cinic-10-lance-dataset) format, with the following directory structure:
