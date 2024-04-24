@@ -21,7 +21,7 @@ If you don't have the dataset in the Lance format, you can use the `convert-any-
 3. Open the Jupyter Notebook or run the script using an appropriate environment.
 4. The script will load the dataset, preprocess the images, define the CNN model architecture, and train the model using the provided hyperparameters.
 5. During training, the script will log the loss, validation accuracy, and epoch duration to the wandb dashboard.
-6. After training, the script will save the trained model as `cinic_lance.pth`.
+6. After training, the script will save the trained model as `cinic_resnet.pth`.
 7. Finally, the script will evaluate the trained model on the test dataset and log the test accuracy to the wandb dashboard.
 
 ### Customization
@@ -32,8 +32,7 @@ You can customize the script by modifying the following parameters:
 2. `momentum`: Momentum value for the optimizer
 3. `number_of_epochs`: Number of epochs for training
 4. `model_batch_size`: Batch size for training and evaluation
-5. `dataframe_batch_size`: Batch size for loading the dataset into pandas DataFrame
-6. `transform`: Image transforma
+5. `batches_to_train`: Number of batches you want to Train
 
 ### Results
 
