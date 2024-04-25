@@ -2,6 +2,7 @@ pyarrow
 pylance
 datasets
 torch
+torchvision
 accelerate
 transformers
 bitsandbytes
