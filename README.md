@@ -39,6 +39,7 @@ Practical examples showcasing how to adapt your Lance dataset to popular deep le
 | [PEFT Supervised Fine-tuning of Gemma using Huggingface Trainer](/examples/sft-gemma-hindi/) | <a href="https://colab.research.google.com/github/lancedb/lance-deeplearning-recipes/blob/main/examples/sft-gemma-hindi/sft_gemma_hindi.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> |
 | [LLM pre-training](/examples/llm-pretraining/) | <a href="https://colab.research.google.com/github/lancedb/lance-deeplearning-recipes/blob/main/examples/llm-pretraining/llm-pretraining.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> |
 | [COCO Image segmentation](/examples/image-segmentation/) | <a href="https://colab.research.google.com/github/lancedb/lance-deeplearning-recipes/blob/main/examples/image-segmentation/image-segmentation.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> |
+| [FSDP LLM pre-training](/examples/fsdp-llm-pretraining/) |
 
 ## Contributing Examples
 If you're working on some cool deep learning examples using Lance that you'd like to add to this repo, please open a PR!
