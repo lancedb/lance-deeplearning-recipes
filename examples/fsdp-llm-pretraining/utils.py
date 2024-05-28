@@ -188,6 +188,6 @@ def fsdp_main(rank, world_size, args):
         dist.barrier()
         states = model.state_dict()
         if rank == 0:
-            torch.save(states, "mnist_cnn.pt")
+            torch.save(states, "gpt2.pt")
 
     cleanup()
