@@ -29,6 +29,7 @@ Examples on how to convert existing datasets to Lance format.
 |-------- | ------------- | -------------   |
 | [Creating text dataset for LLM pre-training](/examples/wikitext-llm-dataset/) | <a href="https://colab.research.google.com/github/lancedb/lance-deeplearning-recipes/blob/main/examples/wikitext-llm-dataset/wikitext-llm-dataset.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> | [![Ghost](https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E)](https://blog.lancedb.com/custom-dataset-for-llm-training-using-lance/)|
 | [Creating Instruction dataset for LLM fine-tuning](/examples/alpaca-dataset/) | <a href="https://colab.research.google.com/github/lancedb/lance-deeplearning-recipes/blob/main/examples/alpaca-dataset/alpaca-dataset.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> |
+| [Creating Image Captioning Dataset for Multi-Modal Model Training](/examples/flickr8k-dataset/) | <a href="https://colab.research.google.com/github/lancedb/lance-deeplearning-recipes/blob/main/examples/flickr8k-dataset/flickr8k-dataset.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> |
 
 
 ## Training Examples
