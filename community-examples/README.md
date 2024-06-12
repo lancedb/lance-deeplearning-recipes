@@ -15,6 +15,12 @@ cinic/
 
 If you don't have the dataset in the Lance format, you can use the `convert-any-image-dataset-to-lance.py` script provided in the `converters` folder to convert your dataset to the Lance format.
 
+To get started, install the necessary Python packages by running the following command:
+
+```python
+pip install torch torchvision tqdm pillow pylance wandb
+```
+
 ### Usage
 1. Clone or download the repository.
 2. Navigate to the directory containing the `cnn-model-with-lance-dataset.ipynb` script.
