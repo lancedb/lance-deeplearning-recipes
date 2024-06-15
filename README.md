@@ -42,6 +42,7 @@ Practical examples showcasing how to adapt your Lance dataset to popular deep le
 | [COCO Image segmentation](/examples/image-segmentation/) | <a href="https://colab.research.google.com/github/lancedb/lance-deeplearning-recipes/blob/main/examples/image-segmentation/image-segmentation.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> |
 | [FSDP LLM pre-training](/examples/fsdp-llm-pretraining/) |
 | [Wikiart Diffusion Training](/examples/diffusion-training/) | <a href="https://colab.research.google.com/github/lancedb/lance-deeplearning-recipes/blob/main/examples/diffusion-training/diffusion-training.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> |
+| [CLIP Training](/examples/clip-training/) | <a href="https://colab.research.google.com/github/lancedb/lance-deeplearning-recipes/blob/main/examples/clip-training/clip-training.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> |
 
 ## Contributing Examples
 If you're working on some cool deep learning examples using Lance that you'd like to add to this repo, please open a PR!
