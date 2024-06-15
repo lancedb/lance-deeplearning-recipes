@@ -54,4 +54,4 @@ The script will log the training loss, validation accuracy, epoch duration, and 
 
 
 ### Code and Blog
-<a href="https://colab.research.google.com/drive/18bxh4yCsyAk9Ii583fqpjDr0y0si-2JT?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> [![Ghost](https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E)]()
+<a href="https://colab.research.google.com/drive/1fGTDb1Qr3asL-9qm3W-iR5-gqauJJpWK?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> [![Ghost](https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E)]()
