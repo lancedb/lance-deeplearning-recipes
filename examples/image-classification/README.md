@@ -53,5 +53,5 @@ The script will log the training loss, validation accuracy, epoch duration, and 
 - [CINIC-10 Lance Dataset](https://www.kaggle.com/datasets/vipulmaheshwarii/cinic-10-lance-dataset)
 
 
-### Code and Blog
-<a href="https://colab.research.google.com/drive/1fGTDb1Qr3asL-9qm3W-iR5-gqauJJpWK?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> [![Ghost](https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E)]()
+### Code
+<a href="https://colab.research.google.com/github/lancedb/lance-deeplearning-recipes/blob/main/examples/image-classification/image-classification.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
